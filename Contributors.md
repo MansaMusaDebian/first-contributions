@@ -176,6 +176,7 @@ git add Contributors.md# Contributors
 - Brooke Smith
 Sam Barns
 - [moddingforreal](https://github.com/moddingforreal)
+- [MansaMusaDebian] (https://github.com/MansaMusaDebian)
 - [Shane Ludwig] (https://github.com/FoopyPoopy)
 - [Masaki Nishi] (https://github.com/MasakiNishi)
 - [Vedashree D] (https://github.com/VedashreeD)
